@@ -7,6 +7,8 @@ In this legendary project, I bravely embarked on a quest to build a Neural Netwo
 
 Armed with the Microsoft Common Objects in Context [(MS COCO) dataset](https://cocodataset.org/#home), some code, and an unhealthy dose of optimism, I set out to train this model to *understand* images. Spoiler alert: it mostly ended up guessing, but hey, it’s the thought that counts! 😅
 
+![image-captioning](https://github.com/user-attachments/assets/254a36a4-f830-406d-8841-20782b8bd207)
+**Image Captioning Model
 ---
 
 ## Introduction 🤓
